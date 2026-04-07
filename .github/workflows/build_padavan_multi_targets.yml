@@ -9,7 +9,7 @@ on:
         description: "Comma-separated list of router devices (e.g., K2P,MI-R3G)"
         required: true
         type: string
-        default: MI-R3G,ZTE-Q7
+        default: MI-R3G
       toolchain:
         description: "Select compilation toolchain"
         required: true
